@@ -1,0 +1,4 @@
+﻿  SERVER.C
+C:\Users\Menna\Desktop\PAYMENT_APPLICATION\PAYMENT1\SERVER.C(85): warning C4716: 'recieveTransactionData': must return a value
+C:\Users\Menna\Desktop\PAYMENT_APPLICATION\PAYMENT1\SERVER.C(98): warning C4716: 'saveTransaction': must return a value
+  PAYMENT1.vcxproj -> C:\Users\Menna\Desktop\PAYMENT_APPLICATION\x64\Debug\PAYMENT1.exe
